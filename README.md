@@ -2,18 +2,24 @@
 
 ## Instructions
 
-1 - Clone this repository into computer;
-2 - run this command:
+<ol>
+<li>Clone this repository into computer;</li>
+<li>run this command:
 
 ```bash
   yarn
 ```
 
+</li>
+<li>
 3 - run this command:
 
 ```bash
  yarn dev
 ```
+
+</li>
+</ol>
 
 ## For tests
 
