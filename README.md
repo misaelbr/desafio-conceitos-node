@@ -4,7 +4,7 @@
 
 <ol>
 <li>Clone this repository into computer;</li>
-<li>run this command:
+<li><br>Run this command:
 
 ```bash
   yarn
@@ -23,8 +23,13 @@
 
 ## For tests
 
-1 - run this command:
+<ol>
+<li>
+Run this command:
 
 ```
  yarn test
 ```
+
+</li>
+</ol>
