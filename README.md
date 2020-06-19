@@ -12,7 +12,7 @@
 
 </li>
 <li>
-3 - run this command:
+Run this command:
 
 ```bash
  yarn dev
