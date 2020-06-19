@@ -1,4 +1,4 @@
-# Desafio GoStack 11
+# Primeiro desafio da GoStack 11
 
 ## Instructions
 
