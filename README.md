@@ -4,7 +4,7 @@
 
 <ol>
 <li>Clone this repository into computer;</li>
-<li><br>Run this command:
+<li>Run this command:
 
 ```bash
   yarn
